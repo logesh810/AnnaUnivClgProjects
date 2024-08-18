@@ -1,0 +1,22 @@
+/* inputtext */
+
+.p-inputtext,.p-inputtext:focus,.p-inputtext:focus-visible,.p-inputtext:focus-within {
+    padding: 9px;
+    margin: 10px;
+    border-radius :0 ;
+    border: none;
+    box-shadow: none;
+     border-left: 2px solid red;
+     outline: none;
+}
+/* button */
+
+.p-button {
+    padding: 8px;
+    border: none;
+}
+
+.p-button.primary-btn{
+    background-color:#c231cf;
+    /* color: black; */
+}
