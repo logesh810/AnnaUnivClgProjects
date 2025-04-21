@@ -15,6 +15,13 @@ Data science plays a crucial role in analytics by using scientific methods, algo
 **4. Define Sampling Distribution.**  
 A sampling distribution is the probability distribution of a given statistic based on a random sample. It represents how a statistic (like the sample mean) varies from sample to sample.
 
+**5. Types of  Sampling Distribution.**  
+- sampling distribution of mean
+- sampling distribution of proportion
+- T-distribution
+
+
+
 ### 15-Marks Questions
 
 **1. Explain the structure and types of web data with examples.**  
