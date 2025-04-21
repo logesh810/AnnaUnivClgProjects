@@ -1,0 +1,196 @@
+Unit I – Introduction to Data Science and Big Data
+
+2-Marks:
+
+1. Define Big Data.
+
+
+2. What is the role of data science in analytics?
+
+
+3. Mention any two core analytics tools.
+
+
+4. Define Sampling Distribution.
+
+
+
+15-Marks:
+
+1. Explain the structure and types of web data with examples.
+2. Describe the evolution of analytic scalability and its relevance to Big Data.
+3. Differentiate between Core Analytics and Advanced Analytics.
+4. Discuss the Data Science Process in detail.
+
+
+
+16-Marks:
+
+1. Write a detailed note on the Data Science Lifecycle. Compare it with traditional analytics models.
+
+
+2. Discuss various modern data analytic tools and their importance in Big Data environments.
+
+
+
+
+---
+
+Unit II – Data Analysis using R
+
+2-Marks:
+
+1. Define mean and median.
+
+
+2. What is a bar plot?
+
+
+3. Mention two functions in R used for regression analysis.
+
+
+4. What is the purpose of scatter plots?
+
+
+
+15-Marks:
+
+1. Explain univariate and bivariate analysis with examples.
+
+
+2. Describe correlation and regression techniques in R.
+
+
+3. Illustrate multivariate analysis using graphical methods.
+
+
+
+16-Marks:
+
+1. Discuss the various descriptive statistics methods in R. Demonstrate with R code snippets.
+
+
+2. Explain linear and logistic regression with practical applications using R.
+
+
+
+
+---
+
+Unit III – Data Modeling
+
+2-Marks:
+
+1. What is the CAP theorem?
+
+
+2. Mention two features of NoSQL.
+
+
+3. What is Principal Component Analysis?
+
+
+4. List any two CRUD operations.
+
+
+
+15-Marks:
+
+1. Describe Support Vector Machines (SVM) and their application in data modeling.
+
+
+2. Explain MongoDB architecture and data types.
+
+
+3. Differentiate between RDBMS and NoSQL databases.
+
+
+
+16-Marks:
+
+1. Explain Bayesian modeling with real-life use cases in data analytics.
+
+
+2. Discuss data modeling techniques in HBase and their benefits.
+
+
+
+
+---
+
+Unit IV – Data Analytical Frameworks
+
+2-Marks:
+
+1. What is HDFS?
+
+
+2. Name any two components of Hadoop.
+
+
+3. Define MapReduce.
+
+
+4. What is Apache Sqoop?
+
+
+
+15-Marks:
+
+1. Compare RDBMS and Hadoop in terms of data storage and processing.
+
+
+2. Explain the architecture of HDFS with diagrams.
+
+
+3. Describe the MapReduce programming model with an example.
+
+
+
+16-Marks:
+
+1. Write detailed notes on Hadoop ecosystem and its components.
+
+
+2. Explain HBase and its role in Big Data Analytics.
+
+
+
+
+---
+
+Unit V – Stream Analytics
+
+2-Marks:
+
+1. What is stream computing?
+
+
+2. Define a decaying window.
+
+
+3. What is stream filtering?
+
+
+4. Mention any two challenges in stream data processing.
+
+
+
+15-Marks:
+
+1. Explain stream data models and architecture.
+
+
+2. Describe the concept of sliding window and its applications.
+
+
+3. Write about filtering and counting techniques in stream data.
+
+
+
+16-Marks:
+
+1. Discuss techniques for analyzing and estimating stream data moments.
+
+
+2. Explain stream analytics with architecture, data models, and real-world applications.
