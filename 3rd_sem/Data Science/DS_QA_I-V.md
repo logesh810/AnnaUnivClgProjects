@@ -22,7 +22,7 @@ A sampling distribution is the probability distribution of a given statistic bas
 
 
 
-### 15-Marks Questions
+### 13-Marks Questions
 
 **1. Explain the structure and types of web data with examples.**  
 Web data is primarily unstructured or semi-structured and can be classified into:
@@ -53,7 +53,7 @@ The Data Science Process includes:
 6. **Interpretation**: Draw conclusions and insights.  
 7. **Deployment**: Implement solutions into production.
 
-### 16-Marks Questions
+### 15-Marks Questions
 
 **1. Write a detailed note on the Data Science Lifecycle. Compare it with traditional analytics models.**  
 The Data Science Lifecycle includes:
@@ -101,7 +101,7 @@ A bar plot is a chart that represents categorical data with rectangular bars whe
 **4. What is the purpose of scatter plots?**  
 Scatter plots are used to visualize the relationship between two continuous variables and identify correlation patterns or outliers.
 
-### 15-Marks Questions
+### 13-Marks Questions
 
 **1. Explain univariate and bivariate analysis with examples.**  
 - **Univariate Analysis**: Analyzes one variable at a time (e.g., mean, median of age).  
@@ -117,7 +117,7 @@ Use R packages like `ggplot2` or `lattice` to create:
 - 3D plots  
 - Pairwise correlation heatmaps
 
-### 16-Marks Questions
+### 15-Marks Questions
 
 **1. Discuss the various descriptive statistics methods in R with examples and code.**  
 Descriptive statistics help summarize data features. Key methods include:
@@ -169,7 +169,7 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique used 
 - Create  
 - Read
 
-### 15-Marks Questions
+### 13-Marks Questions
 
 **1. Describe Support Vector Machines (SVM) and their application in data modeling.**  
 Support Vector Machines (SVM) are supervised learning models used for classification and regression tasks. They work by finding the hyperplane that best separates classes in the feature space. Applications include image recognition, bioinformatics, and text classification.
@@ -187,7 +187,7 @@ MongoDB offers scalability, high performance, and availability.
 - **NoSQL** supports flexible schema, distributed architecture, and is optimized for unstructured data.
 Examples: MySQL (RDBMS), MongoDB (NoSQL)
 
-### 16-Marks Questions
+### 15-Marks Questions
 
 **1. Explain Bayesian modeling with real-life use cases in data analytics.**  
 Bayesian modeling uses Bayes' Theorem to update probabilities as more data becomes available. It's useful for:
@@ -225,7 +225,7 @@ MapReduce is a programming model for processing and generating large datasets wi
 **4. What is Apache Sqoop?**  
 Apache Sqoop is a tool for transferring data between Hadoop and relational databases.
 
-### 15-Marks Questions
+### 13-Marks Questions
 
 **1. Compare RDBMS and Hadoop in terms of data storage and processing.**  
 - **RDBMS**: Stores structured data, uses SQL, suitable for transactional systems.
@@ -249,7 +249,7 @@ Map: (word, 1)
 Reduce: (word, total count)
 ```
 
-### 16-Marks Questions
+### 15-Marks Questions
 
 **1. Write detailed notes on Hadoop ecosystem and its components.**  
 The Hadoop ecosystem includes:
@@ -290,7 +290,7 @@ Stream filtering is the process of selecting relevant data from a continuous str
 - Handling data velocity  
 - Managing incomplete or noisy data
 
-### 15-Marks Questions
+### 13-Marks Questions
 
 **1. Explain stream data models and architecture.**  
 Stream data models process data tuples in real-time. Architecture includes:
@@ -311,7 +311,7 @@ Techniques include:
 - **Counting sketches**: Estimate frequency counts
 - **Sampling methods**: Random or reservoir sampling
 
-### 16-Marks Questions
+### 15-Marks Questions
 
 **1. Discuss techniques for analyzing and estimating stream data moments.**  
 Techniques:
