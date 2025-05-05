@@ -15,7 +15,7 @@ Unit I – Introduction to Data Science and Big Data
 
 
 
-15-Marks:
+13-Marks:
 
 1. Explain the structure and types of web data with examples.
 2. Describe the evolution of analytic scalability and its relevance to Big Data.
@@ -53,7 +53,7 @@ Unit II – Data Analysis using R
 
 
 
-15-Marks:
+13-Marks:
 
 1. Explain univariate and bivariate analysis with examples.
 
@@ -94,7 +94,7 @@ Unit III – Data Modeling
 
 
 
-15-Marks:
+13-Marks:
 
 1. Describe Support Vector Machines (SVM) and their application in data modeling.
 
@@ -135,7 +135,7 @@ Unit IV – Data Analytical Frameworks
 
 
 
-15-Marks:
+13-Marks:
 
 1. Compare RDBMS and Hadoop in terms of data storage and processing.
 
@@ -176,7 +176,7 @@ Unit V – Stream Analytics
 
 
 
-15-Marks:
+13-Marks:
 
 1. Explain stream data models and architecture.
 
