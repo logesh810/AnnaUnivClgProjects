@@ -35,42 +35,6 @@ Dual Coding Theory suggests that information is processed in two distinct channe
 ### 4. Define Cognition in multimedia context.
 Cognition in multimedia refers to the mental processes involved in acquiring knowledge and understanding through multimedia elements such as images, text, video, and audio.
 
-# DMC8302 – MULTIMEDIA SYSTEMS AND APPLICATIONS
-**Important 2 Marks, 13 Marks, and 15 Marks Questions with Answers**
-
-- **Course Code**: DMC8302
-- **Program**: MCA
-- **University**: Anna University
-- **Academic Year**: 2024 – 2025
-
----
-
-## Table of Contents
-- Unit I - Multimedia Elements
-- Unit II - Multimedia Tools and Authoring
-- Unit III - Multimedia Compression Techniques
-- Unit IV - Multimedia Communication Systems
-- Unit V - Multimedia Applications
-
----
-
-# Unit I - Multimedia Elements
-
-## 2 Mark Questions
-
-### 1. Define Multimedia.
-Multimedia refers to the integration of multiple forms of media — text, graphics, audio, video, and animation — into a single interactive platform or presentation using computers.
-
-### 2. List two basic elements of multimedia.
-- Text
-- Graphics
-
-### 3. What is Dual Coding Theory?
-Dual Coding Theory suggests that information is processed in two distinct channels: verbal (text, spoken words) and non-verbal (images, visuals), and learning improves when both channels are engaged simultaneously.
-
-### 4. Define Cognition in multimedia context.
-Cognition in multimedia refers to the mental processes involved in acquiring knowledge and understanding through multimedia elements such as images, text, video, and audio.
-
 ---
 
 ## 13 Mark Questions
