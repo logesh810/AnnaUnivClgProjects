@@ -1,3 +1,33 @@
+## Difference between Single Entry System and Double Entry System.
+| **Single Entry System**                      | **Double Entry System**                   |
+| -------------------------------------------- | ----------------------------------------- |
+| Incomplete and unscientific method           | Complete and systematic method            |
+| Records only **one aspect** of a transaction | Records **both aspects** (debit & credit) |
+| Suitable for **small businesses**            | Suitable for **all types of businesses**  |
+| Cannot prepare **trial balance**             | Can easily prepare **trial balance**      |
+| Example: Cash received only                  | Example: Cash received **and** sales made |
+
+
+## Difference between Income and Expenditure.
+| **Income**                        | **Expenditure**                        |
+| --------------------------------- | -------------------------------------- |
+| **Earnings** of an organization   | **Spending** by an organization        |
+| Increases **surplus or profit**   | Decreases **surplus or profit**        |
+| Examples: Subscriptions, interest | Examples: Rent, salaries, depreciation |
+| Recorded on the **credit** side   | Recorded on the **debit** side         |
+
+## Difference between Receipts and Payments.
+
+| **Receipts**                          | **Payments**                          |
+| ------------------------------------- | ------------------------------------- |
+| **Cash received** by the organization | **Cash spent** by the organization    |
+| Increases **cash/bank balance**       | Decreases **cash/bank balance**       |
+| Examples: Membership fees, donations  | Examples: Salaries, rent, electricity |
+| Recorded on the **debit** side        | Recorded on the **credit** side       |
+
+
+----
+
 Accounts Study Plan :
 
 -----JUST FOR REFERENCE-----
