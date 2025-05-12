@@ -79,6 +79,16 @@ Analyzing and mitigating threats during system design.
 - Defense in Depth
 - Separation of Duties
 
+### Components of DiD
+1. Physical Security: Secure access to data centers with biometric authentication and
+surveillance systems.
+2. Network Security: Use of firewalls, intrusion detection systems (IDS), and VPNs to
+prevent unauthorized access.
+3. Application Security: Implement input validation, secure coding practices, and regular
+security testing.
+4. Data Security: Encrypt sensitive data in transit and at rest using robust encryption
+algorithms
+
 ## 15 Mark Question
 
 ### 7. Discuss Threat Modeling and Security Design with examples.
