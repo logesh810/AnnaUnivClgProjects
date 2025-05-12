@@ -226,7 +226,7 @@ Information gathering phase of penetration testing.
 Exploiting vulnerabilities over a network.
 
 ### 4. What is DNS Groper?
-Tool for DNS reconnaissance.
+"DNS Groper" is a colloquial term for the dig command, a powerful network utility used to query Domain Name System (DNS) servers
 
 ## 13 Mark Questions
 
