@@ -159,7 +159,14 @@
 
 **💡 Design a complete visualization pipeline for a real-world dataset (e.g., climate or healthcare data). Explain the preprocessing, mapping, rendering, interaction design, and evaluation phases in detail.**
 
+- Best Word: "PRIME"
   
+Preprocessing, Rendering, Interaction, Mapping, Evaluation
+
+- pipeline order should be like below
+  
+preprocessing, mapping, rendering, interaction design, and evaluation
+
 ### Example Dataset: Climate Data (Temperature, Rainfall, Humidity)
 
 **1. Preprocessing:**  
