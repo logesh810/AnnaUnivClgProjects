@@ -6,14 +6,15 @@
 
 **2. What are the visual variables in graphical perception?**  
 "TOPSC∧MS" (Read as “Top Scams” with ∧ for Value)
-T – Texture
-O – Orientation
-P – Position
-S – Shape
-C – Color
-∧ – Value
-M – Motion
-S – Size
+1. T – Texture
+2. O – Orientation
+3. P – Position
+4. S – Shape
+5. C – Color
+6. ∧ – Value
+7. M – Motion
+8. S – Size
+   
  Visual variables include position, size, shape, orientation, color, texture, and value, which are used to encode data visually.
 
 **3. List any two types of data and give an example.**  
